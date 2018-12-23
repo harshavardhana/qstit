@@ -10,3 +10,8 @@ __*
 .Trashes
 Thumbs.db
 qstit
+Makefile.Debug
+Makefile.Release
+object_script.qstit.Debug
+object_script.qstit.Release
+release/

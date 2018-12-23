@@ -42,7 +42,7 @@ The latest installer from the MinGW website probably won't work correctly.
 - Download the sources, and in the 'src' folder, run the following commands:
 
 ```
-qmake
+qmake src
 mingw32-make
 ```
 

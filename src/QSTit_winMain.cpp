@@ -46,7 +46,7 @@ winMain::winMain()
     gShedStat=false;
     gSrtx=false;                                        // true=srt,false=txt
     gTest=false;
-    gVers="2.9.6";
+    gVers="3.0.0";
     gWork=false;
 
     gBackDial=false;

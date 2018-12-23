@@ -1,7 +1,8 @@
-# QT += core gui   #default
-# CONFIG += qt   #default
-# TEMPLATE = app   #default
+# QT += core gui
+# CONFIG += qt
+# TEMPLATE = app
 
+VERSION = 3.0.0
 TARGET = qstit
 
 MOC_DIR = ./tmp
