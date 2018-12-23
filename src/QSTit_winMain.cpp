@@ -321,7 +321,7 @@ void winMain::fWindLogo()
 {
     gLogo=true;
     winWind->setStyleSheet("background-color:#000000;");
-    QPixmap oLogo=QPixmap(":/Imag/QSTit_logo.png");
+    QPixmap oLogo=QPixmap(":/Imag/Naatak_logo.png");
     labLogo=new QLabel(winWind);
     labLogo->setStyleSheet("background-color:#000000;");
     labLogo->setPixmap(oLogo);
