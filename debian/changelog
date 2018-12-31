@@ -1,3 +1,9 @@
+qstit (3.0.0-1) stable; urgency=low
+
+  * Update the fork with recent fork
+
+ -- Harshavardhana <harsha@naatak.com>  Tue, 31 Dec 2018 14:28:05 +0200
+
 qstit (2.9.6-1) stable; urgency=low
 
   * Fixes bug in the previous version when resuming the timer.

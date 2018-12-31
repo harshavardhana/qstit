@@ -1,8 +1,8 @@
 Source: qstit
 Section: video
 Priority: optional
-Maintainer: Laurent Tenzer (Qstit) <subtitles@nova-cinema.org>
-Homepage: http://subtitles.nova-cinema.org
+Maintainer: Naatak Org <info@naatak.com>
+Homepage: https://github.com/naatakhub/qstit
 Build-Depends: debhelper (>> 3.0.0), libqt4-dev
 Standards-Version: 3.9.3
 

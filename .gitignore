@@ -15,3 +15,8 @@ Makefile.Release
 object_script.qstit.Debug
 object_script.qstit.Release
 release/
+build-stamp
+configure-stamp
+debian/files
+debian/qstit.substvars
+debian/qstit.debhelper.log
